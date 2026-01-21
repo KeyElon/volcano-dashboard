@@ -1,0 +1,62 @@
+{
+  "customers": {
+    "total": 490,
+    "individual": 482,
+    "enterprise": 8
+  },
+  "businessTypes": {
+    "代理合作伙伴": 489,
+    "代售合作伙伴": 1
+  },
+  "staffStats": [
+    {
+      "name": "王立洲Sam",
+      "count": 470
+    },
+    {
+      "name": "吕倡",
+      "count": 18
+    },
+    {
+      "name": "胡必腾",
+      "count": 1
+    }
+  ],
+  "paidCustomers": [
+    {
+      "name": "陈俊宇",
+      "staff": "王立洲Sam",
+      "amount": 0.12
+    },
+    {
+      "name": "李涛涛",
+      "staff": "王立洲Sam",
+      "amount": 1.16
+    },
+    {
+      "name": "温昌荣",
+      "staff": "王立洲Sam",
+      "amount": 0.05
+    },
+    {
+      "name": "刘杨",
+      "staff": "王立洲Sam",
+      "amount": 0.62
+    },
+    {
+      "name": "郭亚庆",
+      "staff": "吕倡",
+      "amount": 23.95
+    },
+    {
+      "name": "贯怀光",
+      "staff": "王立洲Sam",
+      "amount": 9.9
+    },
+    {
+      "name": "舒欣",
+      "staff": "王立洲Sam",
+      "amount": 0.25
+    }
+  ]
+}
